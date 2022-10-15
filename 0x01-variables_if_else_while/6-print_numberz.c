@@ -1,9 +1,8 @@
-#include<stdio.h>
-
+#include <stdio.h>
 /**
   * main - Entry point
   *
-  * print 0-9 using putchar
+  * print 0-9 with int variable while using putchar
   *
   * Return: Always 0 (Success)
   */
@@ -14,7 +13,7 @@ int main(void)
 
 	while (num <= 9)
 	{
-		printf("%i", num);
+		putchar(num + '0');
 		++num;
 	}
 	putchar('\n');
