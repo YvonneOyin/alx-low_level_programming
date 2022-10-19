@@ -25,7 +25,6 @@ void times_table(void)
 
 			if (prod < 10 && multi != 0)
 			{
-				_putchar(',');
 				_putchar(' ');
 				_putchar(prod + '0');
 			}
