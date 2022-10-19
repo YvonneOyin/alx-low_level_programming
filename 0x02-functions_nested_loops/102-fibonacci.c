@@ -17,15 +17,13 @@ int main(void)
 	for (numCount = 0; numCount < 50; ++numCount)
 	{
 		sum = fibo1 + fibo2;
-		printf("%lu", sum);
+		printf("%lu, ", sum);
 
 		fibo1 = fibo2;
 		fibo2 = sum;
 
 		if (numCount == 49)
-			printf("\n");
-		else
-			printf(",");
+			printf("%lu\n", fibo1);
 	}
 
 	return (0);
