@@ -11,13 +11,12 @@
 
 int main(void)
 {
-	int numCount;
-	unsigned long int fibo1 = 0, fibo2 = 1, sum;
+	long int numCount, fibo1 = 1, fibo2 = 2, sum = 0;
 
 	for (numCount = 0; numCount < 49; ++numCount)
 	{
 		sum = fibo1 + fibo2;
-		printf("%lu, ", sum);
+		printf("%lu, ", fibo1);
 
 		fibo1 = fibo2;
 		fibo2 = sum;
