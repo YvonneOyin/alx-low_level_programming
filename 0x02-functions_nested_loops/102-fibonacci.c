@@ -14,7 +14,7 @@ int main(void)
 	int numCount;
 	unsigned long int fibo1 = 0, fibo2 = 1, sum;
 
-	for (numCount = 0; numCount < 50; ++numCount)
+	for (numCount = 0; numCount < 49; ++numCount)
 	{
 		sum = fibo1 + fibo2;
 		printf("%lu, ", sum);
@@ -22,7 +22,7 @@ int main(void)
 		fibo1 = fibo2;
 		fibo2 = sum;
 
-		if (numCount == 49)
+		if (numCount == 48)
 			printf("%lu\n", fibo1);
 	}
 
