@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int val = 1024, num, sum = 0;
+	int num, sum;
 
 	for (num = 0; num < 1024; ++num)
 	{
