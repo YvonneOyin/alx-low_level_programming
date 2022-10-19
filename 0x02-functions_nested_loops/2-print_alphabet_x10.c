@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-  * print_alphabet - use _putchar function to print the alphabet
+  * print_alphabet_x10 - use _putchar function to print the alphabet
+  *
   */
 
 void print_alphabet_x10(void)
