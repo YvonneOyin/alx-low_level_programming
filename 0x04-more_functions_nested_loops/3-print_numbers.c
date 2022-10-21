@@ -8,12 +8,10 @@
 
 void print_numbers(void)
 {
-	/* local variable definition */
 	int number = 0;
 
-	/* do loop execution */
 	do {
-		_putchar(number + 48);
+		_putchar(number + '0');
 		number++;
 	} while (number >= 0 && number <= 9);
 	_putchar('\n');
