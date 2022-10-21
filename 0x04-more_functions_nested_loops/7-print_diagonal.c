@@ -16,13 +16,15 @@ void print_diagonal(int n)
 	}
 	else
 	{
-		for (diag = 1; diag <= n; ++diag)
+		for (diag = 1; diag < n; diag++)
 		{
-			for (gap = 1; gap <= diag; ++gap)
+			for (gap = 1; gap < n; gap++)
 			{
-				_putchar(' ');
+				if (gap == diag)
+					_putchar('\\');
+				else if (gap < diag)
+					_putchar(' ');
 			}
-			_putchar(92);
 			_putchar('\n');
 		}
 	}
