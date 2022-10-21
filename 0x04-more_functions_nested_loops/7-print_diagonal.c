@@ -16,9 +16,9 @@ void print_diagonal(int n)
 	}
 	else
 	{
-		for (diag = 1; diag < n; diag++)
+		for (diag = 0; diag < n; diag++)
 		{
-			for (gap = 1; gap < n; gap++)
+			for (gap = 0; gap < n; gap++)
 			{
 				if (gap == diag)
 					_putchar('\\');
