@@ -16,9 +16,9 @@ void print_line(int n)
 	}
 	else
 	{
-		for (lineCh = 1; lineCh <= n; lineCh++)
+		for (lineCh = 1; lineCh <= n; ++lineCh)
 		{
-			_putchar('_-);
+			_putchar('_');
 		}
 		_putchar('\n');
 	}
