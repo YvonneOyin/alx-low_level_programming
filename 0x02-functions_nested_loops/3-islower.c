@@ -3,13 +3,13 @@
 /**
   * _islower - function to check if character is lowercase
   *
-  * @i: checks input of function
+  * @c: checks input of function
   *
   * Return: 1 is lowercase, 0 otherwise
   */
-int _islower(int i)
+int _islower(int c)
 {
-	if (i >= 97 && i <= 122)
+	if (c >= 97 && c <= 122)
 		return (1);
 	else
 		return (0);
