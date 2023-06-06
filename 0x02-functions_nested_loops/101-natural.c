@@ -11,11 +11,11 @@
 
 int main(void)
 {
-	int num = 0, sum;
+	int num = 0;
+	int sum = 0;
 
 	while (num < 1024)
 	{
-		sum = 0;
 		if ((num % 3 == 0) || (num % 5 == 0))
 		{
 			sum = sum + num;
