@@ -2,7 +2,7 @@
 
 /**
  * print_line - prints a s bytes of a buffer
- * 
+ *
  * @a: buffer to print
  *
  * @s: bytes of buffer to print
