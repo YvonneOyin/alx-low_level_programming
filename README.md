@@ -7,3 +7,4 @@
 * **0x04-more_functions_nested_loops** by Julien Barbier
 * **0x05-pointers_arrays_strings** by Julien Barbier
 * **0x06. C - More pointers, arrays and strings** by Julien Barbier
+* **0x08-recursion** by Julien Barbier
