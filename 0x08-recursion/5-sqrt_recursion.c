@@ -3,10 +3,10 @@
 /**
  * search - checks for the square root
  *
- * @x - integer x
- * @y - integer y
+ * @x: integer x
+ * @y: integer y
  *
- * Return - int
+ * Return: integer
  */
 int search(int x, int y)
 {
