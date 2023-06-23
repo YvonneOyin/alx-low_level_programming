@@ -1,9 +1,9 @@
 /**
  * _memset - fills the memory with a constant byte
  *
- * *s: character type pointer
- * b: character type
- * n: an unsigned int type
+ * @s: character type pointer
+ * @b: character type
+ * @n: an unsigned int type
  *
  * Return: pointer to the memory area s
  */
