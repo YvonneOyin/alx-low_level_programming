@@ -11,3 +11,4 @@
 * **0x07-pointers_arrays_strings** by Julien Barbier
 * **0x09-static_libraries** by Julien Barbier
 * **0x0A-argc_argv** by Julien Barbier
+* **0x0B-malloc_free** by Julien Barbier
