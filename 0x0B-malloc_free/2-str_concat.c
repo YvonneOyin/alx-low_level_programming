@@ -16,17 +16,16 @@ char *str_concat(char *s1, char *s2)
 	int l1, l2;
 	char *str;
 
-	if (s1 != NULL)
-	{
-		while (s1[a] != '\0')
-			a++;
-	}
-	if (s2 != NULL)
-	{
-		while (s2[b] != '\0')
-		b++;
-	}
+	if (s1 == NULL)
+		s1 = "";
+	if (s2 == NULL)
+		s2 = "";
 
+	/*find length of str1 & str2*/
+	while (s1[a] != '\0')
+		a++;
+	while (s2[b] != '\0')
+		b++;
 
 	str = malloc((sizeof(char) * (a + b)) + 1);
 	if (str == NULL)
