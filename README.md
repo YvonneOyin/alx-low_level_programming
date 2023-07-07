@@ -15,3 +15,4 @@
 * **0x0C-more_malloc_free** by Julien Barbier
 * **0x0D-preprocessor** by Julien Barbier & Johan Euphrosine, Software Engineer at Google
 * **0x12-singly_linked_lists** by Julien Barbier
+* **0x13-more_singly_linked_lists** by Julien Barbier
