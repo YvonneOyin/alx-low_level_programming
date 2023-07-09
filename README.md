@@ -16,3 +16,4 @@
 * **0x0D-preprocessor** by Julien Barbier & Johan Euphrosine, Software Engineer at Google
 * **0x12-singly_linked_lists** by Julien Barbier
 * **0x13-more_singly_linked_lists** by Julien Barbier
+* **0x14-bit_manipulation** by Julien Barbier
