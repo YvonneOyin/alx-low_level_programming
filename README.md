@@ -7,13 +7,9 @@
 * **0x04-more_functions_nested_loops** by Julien Barbier
 * **0x05-pointers_arrays_strings** by Julien Barbier
 * **0x06. C - More pointers, arrays and strings** by Julien Barbier
-* **0x08-recursion** by Julien Barbier
 * **0x07-pointers_arrays_strings** by Julien Barbier
-* **0x09-static_libraries** by Julien Barbier
-* **0x0A-argc_argv** by Julien Barbier
-* **0x0B-malloc_free** by Julien Barbier
-* **0x0C-more_malloc_free** by Julien Barbier
-* **0x0D-preprocessor** by Julien Barbier & Johan Euphrosine, Software Engineer at Google
-* **0x12-singly_linked_lists** by Julien Barbier
-* **0x13-more_singly_linked_lists** by Julien Barbier
-* **0x14-bit_manipulation** by Julien Barbier
+* **0x08-recursion** by Julien Barbier
+
+## Contact
+<200b>
+If you have any questions, suggestions, or feedback, feel free to reach out to me at [gmail](olufemioyindamola37@gmail.com). You can also find me on [Twitter](https://twitter.com/Yvonne_Oyinda)
