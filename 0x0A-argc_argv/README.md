@@ -20,5 +20,4 @@
 * Don’t forget to push your header file
 
 ## Contact
-​
 If you have any questions, suggestions, or feedback, feel free to reach out to me at [gmail](olufemioyindamola37@gmail.com). You can also find me on [Twitter](https://twitter.com/Yvonne_Oyinda).
