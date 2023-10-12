@@ -23,11 +23,10 @@ void print_strings(const char *separator, const unsigned int n, ...)
 			printf("%s", str);
 		else
 			printf("(nil)");
-
 		if (num != n - 1 && separator)
-        {
-            printf("%s", separator);
-        }
+		{
+			printf("%s", separator);
+		}
 	}
 	va_end(list);
 
