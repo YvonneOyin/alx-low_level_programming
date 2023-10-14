@@ -14,6 +14,7 @@
 * **0x0B. C - Malloc, free** by Julien Barbier
 * **0x0D. C - Preprocessor** by Julien Barbier & Johan Euphrosine, Software Engineer at Google
 * **0x0E. C - Structures, typedef** by Julien Barbier
+* **0x0F. C - Function pointers** by  Alexandre Gautier
 * **0x10. C - Variadic functions** by Julien Barbier
 
 ## Contact
