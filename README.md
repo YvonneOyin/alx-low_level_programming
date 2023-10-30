@@ -16,6 +16,7 @@
 * **0x0E. C - Structures, typedef** by Julien Barbier
 * **0x0F. C - Function pointers** by  Alexandre Gautier
 * **0x10. C - Variadic functions** by Julien Barbier
+* **0x14. C - Bit manipulation** by Julien Barbier
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me at [gmail](olufemioyindamola37@gmail.com). You can also find me on [Twitter](https://twitter.com/Yvonne_Oyinda)
